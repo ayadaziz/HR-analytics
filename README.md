@@ -21,6 +21,9 @@ The dataset used in this project includes:
 
 - Employee attendance records with leave types (sick leave, casual leave, work-from-home, etc.).
 
+ ![image](https://github.com/user-attachments/assets/49a238be-d5cd-43b6-88b9-9cb54be08290)
+
+
 # Tools & Technologies
 
 - **Power BI** for interactive dashboards and data visualization.
@@ -38,6 +41,10 @@ The dataset used in this project includes:
 - Create calculated columns and measures using DAX.
 
 ## 3. Dashboard Development
+
+![image](https://github.com/user-attachments/assets/078b34c6-483a-48f2-a460-838f45d0770d)
+
+
 - Build interactive visualizations for absenteeism trends, peak sick leave periods, and correlations with external factors.
 - Use slicers and filters to enhance user interaction.
 - Develop a user-friendly layout with insights and summaries.
