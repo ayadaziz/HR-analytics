@@ -2,7 +2,9 @@
 
 # Project Problem Statement
 
-Employee absenteeism can significantly impact business operations and productivity. Understanding patterns in employee leave, particularly sick leave, can help organizations take proactive measures to improve workplace health and operational efficiency. Seasonal illnesses, localized epidemics, and even external events like major sports matches can contribute to variations in attendance. This project aims to analyze employee leave trends to identify potential health risks, seasonal absenteeism patterns, and external influences affecting attendance. By leveraging data analytics, organizations can implement preventive health measures and optimize workforce planning.
+Employee absenteeism can significantly impact business operations and productivity. Understanding patterns in employee leave, particularly sick leave, can help organizations take proactive measures to improve workplace health and operational efficiency.Seasonal illnesses, localized epidemics, and even external events like major sports matches can contribute to variations in attendance. 
+
+This project aims to analyze employee leave trends to identify potential health risks, seasonal absenteeism patterns, and external influences affecting attendance. By leveraging data analytics, organizations can implement preventive health measures and optimize workforce planning.
 
 # Objectives
 
